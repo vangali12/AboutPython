@@ -1,0 +1,183 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+img {
+	max-height: 100%;
+	max-height: 100%;
+}
+
+#wrapper {
+	background-color: #265174;
+	width: 970px;
+	margin: 0px auto;
+}
+
+#header {
+	padding: 0px 10px 0px 30px;
+}
+
+#textSize {
+	font-size: 10pt;
+	vertical-align: top;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: right;
+	color: white;
+	line-height: 0px;
+}
+
+#textSize a {
+	color: gold;
+}
+
+.black {
+	color: black;
+}
+
+#logo {
+	display: inline-block;
+	width: 45%;
+	vertical-align: middle;
+}
+
+#navBar {
+	display: inline-block;
+	width: 90%;
+	padding: 10px 30px 10px 30px;
+	margin: 10px 20px 0px 20px;
+	word-spacing: 35px;
+	background-color: #4280B0;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+#navBar a {
+	color: white;
+	text-decoration: none;
+}
+
+#searchBox {
+	display: inline-block;
+	width: 30%;
+	height: 50px;
+	margin-left: 200px;
+	background-color: #444445;
+	border-radius: 5px;
+	vertical-align: middle;
+}
+
+#searchBox input {
+	vertical-align: middle;
+	height: 30px;
+	margin-top: 10px;
+}
+
+#button {
+	background-color: #265174;
+	border-radius: 5px;
+	color: white;
+}
+
+#sideLinks {
+	display: inline-block;
+	width: 25%;
+	color: white;
+	vertical-align: middle;
+}
+
+#sideLinks li {
+	list-style-position: inside;
+	color: gold;
+	margin-top: 10px;
+}
+
+#sideLinks a {
+	color: white;
+}
+
+#intro {
+	display: inline-block;
+	width: 70%;
+	text-align: center;
+	color: white;
+	vertical-align: middle;
+}
+
+#intro p {
+	font-size: 11pt;
+	font-weight: lighter;
+}
+
+#intro h3 {
+	color: gold;
+	font-style: italic;
+	font-weight: lighter;
+	margin: 5px;
+}
+
+#intro h4 {
+	margin-top: 10px;
+	font-weight: lighter;
+}
+.contentBox {
+	display: inline-block;
+	width: 45%;
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #4280B0;
+	vertical-align: top;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+.contentBox h3 {
+	padding: 0px;
+	font-size: 12pt;
+}
+
+.contentBox p {
+	font-size: 10pt;
+	margin: 0px 30px 0px 30px;
+}
+
+.contentBox ul {
+	display: inline-block;
+	width: 60%;
+	text-align: center;
+	font-size: 10pt;
+	list-style-type: square;
+}
+
+.contentBox a {
+	color: skyblue;
+	text-decoration: none;
+}
+
+#body {
+	background-color: white;
+}
+
+#footer {
+	padding-top: 40px;
+	padding-bottom: 5px;
+}
+
+#footer a {
+	color: skyblue;
+	font-size: 11pt;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+}
+
+#copyright {
+	display: block;
+	color: skyblue;
+	font-size: 8pt;
+	padding-top: 5px;
+	line-height: 5px;
+}
